@@ -1,0 +1,2 @@
+hidden layer neurons,momentum constant,epochs,accuracy,f1 score
+50.0,0.8,1000.0,0.46794871794871795,0.0
